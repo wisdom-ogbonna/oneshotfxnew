@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-4(d$c6kwebpi5897g^!m93xx)@fx+yf4rhi-5ye&ws$1&v+7zu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['oneshotfx.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['oneshotfx.herokuapp.com', 'oneshotfxtest.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
