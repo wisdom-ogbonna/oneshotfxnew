@@ -1,0 +1,1 @@
+web: gunicorn oneshotfx.wsgi --log-file -
